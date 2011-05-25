@@ -1,0 +1,5 @@
+*.class
+/bin
+/logs
+APDescription.txt
+MTPs-Main-Container.txt
