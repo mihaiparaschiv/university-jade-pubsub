@@ -1,6 +1,6 @@
 # Overview
 
-This project was developed during a course at Politehnica University of Bucharest.
+This project was developed in 2010 at Politehnica University of Bucharest.
 
 Details about the project can be found in the attached [paper](https://github.com/mihaiparaschiv/tera-scpd/raw/master/paper.pdf):
 
