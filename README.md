@@ -9,6 +9,7 @@ Details about the project can be found in the attached [paper](https://github.co
 The code was designed to evaluate the system's performance, as described in the paper.
 
 There are two running configurations:
+
 * run_main.bat: Loads a new JADE platform and creates an agent used for logging evaluation results.
 * run_sec.bat: Creates a new batch of agents.
 
